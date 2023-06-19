@@ -51,3 +51,23 @@ A couple of observations:
 - Why is the +3 magic armor not a level 16 item?
 
 The levels 16 to 18 is the longest stretch where Creature AC is in the lead, due to the late addition of the +3 magic armor.
+
+## Strike Attack Bonus
+The rules for a creature's attack bonus are also very simple:
+- Strike Attack Bonus starts at +7, and increases with the level of the creature.
+- Every even level, the Attack Bonus increases by an additional +1.
+- If a creature has a High Attack Bonus, increase it by 2. If a creature has Extreme Attack Bonus, increase it by 4.
+  - Except at level 11, where it is increased by 5, for some reason.
+
+Thesse seem very similar to the rules for AC, except a High Attack Bonus increases it by 2 instead of 1, and I seem to have forgotten to mention a Low attack bonus. This is because a Low Attack Bonus follows its own, slightly different, rules. If you have a Low Attack bonus, the rules are instead as follows:
+- Low Strike Attack Bonus starts at +5, and increases with the level of the creature.
+- Everly third level, starting at level 2, it increases by an additional +1.
+
+We will later see that this Low Attack progression corresponds to the progression of spell attacks.
+
+### Player Characters
+Again, how does a martial PC keep up with this? Again a creature without a low attack bonus will increase theirs by +10 throughout the 20 levels of play. But this time we note that PCs _also_ increase their attack bonus by an additional +10.
+- Players get +3 due to magic items.
+- Players get +4 due to weapon proficiency increase.
+- Players get +3 due to ability increases, including an Apex item.
+
