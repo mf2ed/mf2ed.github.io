@@ -8,7 +8,7 @@ rules for [Building Creatures](https://2e.aonprd.com/Rules.aspx?ID=995). Let you
 upon tables with seemingly arbitrary nunbers. But is there a method to this madness? And how do player
 characters stack up to the monsters?
 
-# The Monster Math
+# Creature Statistics
 
 Most of the tables follow relatively straightforward rules that you can figure out by staring at them
 for too long. Luckily for you, I have stared at them for too long, so we can skip right to the
