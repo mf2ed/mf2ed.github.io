@@ -42,7 +42,7 @@ The only remaining point of interest would be _when_ these armor increases happe
 As mentioned, creatures get the +1 regularly every even level, while PCs are a bit more haphazard.
 - Creatures will use up to level 8 to catch up to the high starting AC martials have, with martials only getting a single increase (+1 magic armor), and creatures getting four increases.
 - Expert Proficiency at level 13 negates the level 12 and 14 creature bonuses, while Master proficiency at level 19 negates the level 18 and 20 creature bonuses.
-- The remaining bonuses to negate are then level 10 and level 16 bonuses.
+- The remaining bonuses to negate are then the level 10 and the level 16 bonuses.
   - The level 10 bonus is negated at PC level 11 with their new shiny +2 magic armor.
   - The level 16 bonus is negated at PC level 18 when they get their +3 magic armor.
 
