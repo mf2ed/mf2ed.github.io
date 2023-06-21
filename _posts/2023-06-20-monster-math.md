@@ -71,3 +71,14 @@ Again, how does a martial PC keep up with this? Again a creature without a low a
 - Players get +4 due to weapon proficiency increase.
 - Players get +3 due to ability increases, including an Apex item.
 
+The increases for players are spread out as follows:
+- The magic item bonus at level 2 counteracts the creature's bonus at level 2.
+- Expert at level 5 counteracts the creature's bonuses at level 4 and 6.
+- The magic item bonus _and_ the ability score increase at level 10 counteracts the creature's bonuses at level 8 and 10.
+- Master at level 13 counteracts the creature's bonuses at level 12 and 14.
+- The magic item bonus at level 16 counteracts the creature's level 16 bonus.
+- An Apex Item at level 17 counteracts the level 18 creature bonus.
+- And lastly, an ability score increase at level 20 counteracts the creature's level 20 bonus.
+
+We note that most of these bonuses come at more or less the right level to keep up with the monsters. My only question about the math here is: Why is a +2 magic item not a level 8 item instead of a level 10 item? Both the +1 magic weapon and the +3 magic weapon show up _at_ the level they need to keep the player up to date with the monster attack bonus. But the +2 magic item shows up two levels too late. I don't know why.
+
