@@ -82,3 +82,46 @@ The increases for players are spread out as follows:
 
 We note that most of these bonuses come at more or less the right level to keep up with the monsters. My only question about the math here is: Why is a +2 magic item not a level 8 item instead of a level 10 item? Both the +1 magic weapon and the +3 magic weapon show up _at_ the level they need to keep the player up to date with the monster attack bonus. But the +2 magic item shows up two levels too late. I don't know why.
 
+## Saving Throws
+For Low, Moderate, and High saving throw, the rules are as follows
+- Moderate saving throw starts at +7, and increases with the level of the creature.
+- Creatures get an additional +1 to their saving throw at levels 4, 6, 9, 11, 14, 16, and 19.
+  - This is a +2 per five levels, at the levels _around_ multiples of five.
+- If a creature has a High saving throw, increase it by three. If it has a low saving throw, decrease it by three.
+  - Except level 16, where High is only increased by two, for some reason.
+
+If a creatures has a Terrible saving throw, the rules are instead as follows
+- Terrible saving throw starts at +2, and increases with the level of the creature.
+- Creatures get an additional +1 to their saving throw every three levels, starting at level 4.
+
+And if a creature has an Extreme saving throw, the rules are as follows
+- Extreme saving throw starts at +10, and increases with the level of the creature.
+- Creatures get an additional +1 to their saving throw every odd level.
+
+While we will look at how a PCs saving throw stack up to this, a more interesting question will be how this compares to the spell DC of PC casters.
+
+### Player characters
+Figuring out how a Player Character's saving throw compares to a creature's saving throw is less straightforward than both armor class and strike bonus, as there is more variation in classes and also in
+whether the relevant ability scores will be boosted. But we have the following facts to work with.
+- Martial classes start with two Expert saving throws and one Trained.
+- Spellcasters start with expert Will and the other two as trained.
+ - Monks are special and start with all three Expert, and Warpriest Cleric count as Martial here.
+- Most classes will increase the proficiency of each saving throw _once_.
+  - Monks, Barbarians, Bards, Rangers, Rogues and Swashbucklers are special and increase one to Legendary.
+- An ability score will increase by roughly +3 if a player decides to focus on it.
+
+This means than an average player character will increase a saving throw by +8 more than just the increase due to level, over 20 levels, if they focus on the relevant skill with their Ability boosts.
+This is roughly the same increase a creature will get over 20 levels if they have a Low/Moderate/High saving throw, as creatures get a +7 bonus to their saving throw. Hence a player character will stay in
+roughly the same category as they started in.
+
+By looking at the numbers we can see that:
+- Terrible saving throw is roughly equivalent to starting as Trained and not bothering to boost the relevant ability score more than maybe once.
+- Low saving throw is roughly equivalent to starting as Trained
+- Moderate saving throw is roughly equivalent to starting as Expert
+- High saving throw is roughly equivalent to starting as Expert and the relevant ability score is your key ability score.
+- Expert saving throw you only get as a dexterity-focused Ranger, Rogue, Swashbuckler or possibly Monk. And even then you fall slightly short.
+
+Exactly how well these numbers line up to monsters are a bit more class-specific. The magic item bonuses at level 8, 14, and 20 will roughly keep up with the creature increases at level 9, 14, and 19. Ability score increases will roughly keep up with the creature increases at level 4, 11, and 16. This leaves only the level 6 creature increase. 
+And some classes will pre-empt this by increasing a save at level 3, while others will wait until level 7 or 9 or even later to finally catch up. The worst offender here is Warpriest Cleric finally becoming Master in Fortitude at level 15. Other than the warpriest, it's Oracle finally becoming Expert in Reflex saves at level 13. There is also some nuance here that depend on whether you start with 12, 14, or 16 in a non-key ability score.
+
+One last thing to note here is that wearing Bulwark armor gives the same +3 to Reflex saves as you would get by actually increasing your Dexterity with your Ability boosts.
