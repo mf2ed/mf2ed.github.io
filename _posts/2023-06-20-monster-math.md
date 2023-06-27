@@ -8,12 +8,14 @@ rules for [Building Creatures](https://2e.aonprd.com/Rules.aspx?ID=995). Let you
 upon tables with seemingly arbitrary nunbers. But is there a method to this madness? And how do player
 characters stack up to the monsters?
 
+In this essay, I will look at how the statistics of creatures change as they increase in level, and how
+this compares to the increases player characters recieve as they level up.
+
 # Creature Statistics
 
 Most of the tables follow relatively straightforward rules that you can figure out by staring at them
-for too long. Luckily for you, I have stared at them for too long, so we can skip right to the
-good bit. For each statistic, I will stick to the numbers from level 1 and above.
-Let us start with Armor Class.
+for slightly too long. Luckily for you, I have already stared at them for slightly too long, so we can skip right to the
+good bit. For each statistic, I will stick to the numbers from level 1 and above, as most of the rules break slightly at sub-zero levels.
 
 ## Armor Class
 
