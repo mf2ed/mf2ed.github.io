@@ -32,8 +32,7 @@ often wear heavy armor, increasing their AC by 1, similar to High AC. Champions 
 in general increase their AC by 3, not 4. 
 
 ### Player Characters
-So how does a martial PC stack up to this? By these rules, a creature's AC will increase by 10 more than you'd expect from
-a purely level-based perspective. 
+So how does a martial PC stack up to this? By these rules, a creature's AC will increase by 10 more than what you get by just leveling up.
 
 A player's AC will however only increase by 7 over the same 20 levels.
 Going from Trained to Expert to Master increases the AC by 4, while magical armor increases by another 3.
