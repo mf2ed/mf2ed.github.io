@@ -34,7 +34,7 @@ in general increase their AC by 3, not 4.
 ### Player Characters
 So how does a martial PC stack up to this? By these rules, a creature's AC will increase by 10 more than what you get by just leveling up.
 
-A player's AC will however only increase by 7 over the same 20 levels.
+A martial's AC will however only increase by 7 over the same 20 levels.
 Going from Trained to Expert to Master increases the AC by 4, while magical armor increases by another 3.
 However, we also note that a level 1 martial PC will typically start with an AC of 18, where a creature starts
 with an AC of 15, a 3 point difference. This will bridge the remaining 3 point gap. In the end, a martial PC have roughly Moderate AC, or High if you wear Heavy Armor.
