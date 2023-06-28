@@ -26,10 +26,10 @@ The rules for Armor Class are very simple:
 
 That's it, those are all the rules.
 
-The rules also note that high AC is comparable to a PC fighter,
-while Extreme would be comparable to a champion or Monk. This does not seem unreasonable at first, as fighters
+The rules also note that high AC is comparable to a fighter,
+while Extreme would be comparable to a champion or omnk. This does not seem unreasonable at first, as fighters
 often wear heavy armor, increasing their AC by 1, similar to High AC. Champions and Monks will however
-in general increase their AC by 3, not 4.
+in general increase their AC by 3, not 4. 
 
 ### Player Characters
 So how does a martial PC stack up to this? By these rules, a creature's AC will increase by 10 more than you'd expect from
