@@ -117,13 +117,18 @@ This is roughly the same increase a creature will get over 20 levels if they hav
 roughly the same category as they started in.
 
 By looking at the numbers we can see that:
-- Terrible saving throw is roughly equivalent to starting as Trained and not bothering to boost the relevant ability score more than maybe once.
-- Low saving throw is roughly equivalent to starting as Trained
-- Moderate saving throw is roughly equivalent to starting as Expert
+- Terrible saving throw is roughly equivalent to starting as Trained and not bothering to boost the relevant ability score.
+- Low saving throw is roughly equivalent to starting as Trained and boosting the ability score when you can.
+- Moderate saving throw is roughly equivalent to starting as Expert and boosting the ability score when you can.
 - High saving throw is roughly equivalent to starting as Expert and the relevant ability score is your key ability score.
 - Expert saving throw you only get as a dexterity-focused Ranger, Rogue, Swashbuckler or possibly Monk. And even then you fall slightly short.
 
-Exactly how well these numbers line up to monsters are a bit more class-specific. The magic item bonuses at level 8, 14, and 20 will roughly keep up with the creature increases at level 9, 14, and 19. Ability score increases will roughly keep up with the creature increases at level 4, 11, and 16. This leaves only the level 6 creature increase. 
-And some classes will pre-empt this by increasing a save at level 3, while others will wait until level 7 or 9 or even later to finally catch up. The worst offender here is Warpriest Cleric finally becoming Master in Fortitude at level 15. Other than the warpriest, it's Oracle finally becoming Expert in Reflex saves at level 13. There is also some nuance here that depend on whether you start with 12, 14, or 16 in a non-key ability score.
+Fortitude for Barbarians and Will for Bards will typically start at Moderate but end at High, as the save will increase to Legendary but the ability will not be your key ability.
 
-One last thing to note here is that wearing Bulwark armor gives the same +3 to Reflex saves as you would get by actually increasing your Dexterity with your Ability boosts.
+Exactly how well these numbers line up to monsters are a bit more class-specific. The magic item bonuses at level 8, 14, and 20 will roughly keep up with the creature increases at level 9, 14, and 19. Ability score increases will roughly keep up with the creature increases at level 4, 11, and 16. This leaves only the level 6 creature increase. 
+Some classes will pre-empt this by increasing a save at level 3, while others will wait until level 7 or 9 or even later to finally catch up. The worst offender here is Warpriest Cleric finally becoming Master in Fortitude at level 15. Other than the warpriest, it's Oracle finally becoming Expert in Reflex saves at level 13. There is also some nuance here that depend on whether you start with 12, 14, or 16 in a non-key ability score.
+
+One last thing to note here is that wearing Bulwark armor gives the same +3 to Reflex saves as you would typically otherwise get by increasing your Dexterity with your Ability boosts.
+
+## Perception
+A very short chapter here, as Perception works exactly like a saving throw. Extreme Perception gives the exact same numbers as Extreme Saving Throw, and so on.
