@@ -168,7 +168,7 @@ The Creature Spell DC increase at level 9 will be counteracted by the attribute 
 
 After level 15, it seems like it's finally the PC spellcaster's time to shine, as their Apex item at level 17 gives them a temporary leg up on the Creature increase at level 18, and after that Legendary spellcasting gives the PC spellcaster a +2 that the Creature spellcaster will never see! Finally, we are in the lead!
 
-At least, so we would think. But the Building Creatures rules recommend giving Creature Spellcasters Extreme spellcasting from level 15 onwards. And compared to that, our PC spellcaster is at a -4 disadvantage at levels 15, 16, and 17, and 18, a -3 disadvantage at level 19, and at a -2 disadvantage at level 20. So we will _almost_ but not quite catch up to an Extreme Spell DC.
+At least, so we would think. But the Building Creatures rules recommend giving Creature Spellcasters Extreme spellcasting from level 15 onwards. And compared to that, our PC spellcaster is at a -4 disadvantage at levels 15, 16, 17, and 18, a -3 disadvantage at level 19, and at a -2 disadvantage at level 20. So we will _almost_ but not quite catch up to an Extreme Spell DC.
 
 And this is of course just Spell DC. For Spell Attack, it's an even bigger gap. As mentioned previously, Creature spellcasters have an effective +2 on their Spell Attacks compared to their Spell DC. So a PC Caster will therefore instead hover around Moderate Spell Attack for most of their career, increasing to High Spell Attack at level 19.
 
