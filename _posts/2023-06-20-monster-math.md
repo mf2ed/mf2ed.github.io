@@ -142,17 +142,17 @@ One last thing to note here is that wearing Bulwark armor gives the same +3 to R
 A very short section here, as Perception works exactly like a saving throw bonus. Extreme Perception gives the exact same numbers as Extreme Save, High Perception gives the exact same numbers as a High save, and so on. The same rules also apply for players, where classes start either Trained or Expert, and will mostly increase it once. A few classes (Investigator, Ranger, Rogue) increases their perception twice, similar to how a few classes increases one of their saves twice.
 
 ## Spells
-For Moderate and High spell attack rolls, the rules are as follows:
-- A moderate spell attack roll starts at +6, and increases with the level of the creature.
-- Creatures get an additional +1 to their spell attack roll every three levels, starting at level 3.
-- If a creature has a High spell attack roll, increase it by three.
+For Moderate and High Spell DCs, the rules are as follows:
+- A moderate spell DC starts at 14, and increases with the level of the creature.
+- Creatures get an additional +1 to their spell DC every three levels, starting at level 3.
+- If a creature has a High spell DC, increase it by three.
 
-For Extreme spell attack rolls, the rules are as follows:
-- Extreme spell attack roll starts  at +12, and increases with the level of the creature.
-- Creatures get an additional +1 to their spell attack roll at levels 2, 4, 7, 9, 12, 14, 17, and 19.
+For Extreme spell DCs, the rules are as follows:
+- Extreme spell DC starts  at 20, and increases with the level of the creature.
+- Creatures get an additional +1 to their spell DC at levels 2, 4, 7, 9, 12, 14, 17, and 19.
   - This is a +2 per five levels.
 
-For Spell DC, the rule is that you add _eight_ to the spell attack roll. Note that this is different from the rule for players, of adding _ten_. This exarcerbates the problem of spell attacks _already_ winning ties and dice on average rolling more than ten. Creature spellcasters therefore have an effective +4 to their spell attacks compared to their spell DCs.
+For spell attack rolls, the rule is that you subtract _eight_ from the spell DC. Note that this is different from the rule for players, of subtracting _ten_. Creature spellcasters seem to essentially get a free +2 to their spell attack rolls.
 
 Comparing spell DCs to saving throws, we note:
 - Extreme spell DCs increase at the same pace as Low, Medium, and High saves (but getting bonuses at slightly different levels).
@@ -160,7 +160,7 @@ Comparing spell DCs to saving throws, we note:
   - This doesn't really matter until we hit around level 16, as it is only a difference between +1.33 and +1.4 per level.
 
 ### Player Characters
-As for previous stats, I want to compare how these increases compare to a player character. We have up until this point noted that for strike bonus and AC, a Moderate stat for a Creature more or less maps over to what a Player Character can expect to have, with PC stats being within ±1 of the Creature stats. This is _not_ the case for spellcasters!
+As for previous stats, I want to compare how these increases compare to a player character. We have up until this point noted that for strike bonus and AC, a Moderate stat for a Creature more or less maps to what a Player Character can expect to have, with PC stats being within ±1 of the Creature stats. Sometimes the PC is in the lead, sometimes the Creature is in the lead. We will see that this is _not_ the case for spellcasters!
 
 The Building Creatures rules note that a primary spellcaster should have a High spellcasting stat, and we indeed note that a Player Character starts with a High Spell DC of 17. For Creatures, this will then get an extra increase at levels 3 and 6, while player characters need to wait until level 7 before they again catch up to a High Spell DC. So for three levels (3, 4, and 5), the PC spellcaster is at a -1 DC compared to a High Spell DC Creature, and for one level (level 6), the PC spellcaster is at a -2 DC compared to a High Spell DC Creature. It is tempting to compare this to martials, who will at worst lag 1 point behind for 2 levels.
 
