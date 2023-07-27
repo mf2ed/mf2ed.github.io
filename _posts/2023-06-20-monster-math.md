@@ -17,6 +17,12 @@ Most of the tables follow relatively straightforward rules that you can figure o
 for slightly too long. Luckily for you, I have already stared at them for slightly too long, so we can skip right to the
 good bit. For each statistic, I will stick to the numbers from level 1 and above, as most of the rules break slightly at sub-zero levels.
 
+## Table of Contents
+1. [Armor Class](#armor-class)
+2. [Strike Attack Bonus](#strike-attack-bonus)
+3. [Saving Throws](#saving-throws)
+4. [Perception](#perception)
+
 ## Armor Class
 
 The rules for Armor Class are very simple:
@@ -27,7 +33,7 @@ The rules for Armor Class are very simple:
 That's it, those are all the rules.
 
 The rules also note that high AC is comparable to a fighter,
-while Extreme would be comparable to a champion or omnk. This does not seem unreasonable at first, as fighters
+while Extreme would be comparable to a champion or monk. This does not seem unreasonable at first, as fighters
 often wear heavy armor, increasing their AC by 1, similar to High AC. Champions and Monks will however
 in general increase their AC by 3, not 4. 
 
