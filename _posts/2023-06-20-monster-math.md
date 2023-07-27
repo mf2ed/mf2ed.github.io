@@ -69,7 +69,7 @@ The rules for a creature's attack bonus are also very simple:
 - If a creature has a High Attack Bonus, increase it by 2. If a creature has Extreme Attack Bonus, increase it by 4.
   - Except at level 11, where it is increased by 5, for some reason.
 
-Thesse seem very similar to the rules for AC, except a High Attack Bonus increases it by 2 instead of 1, and I seem to have forgotten to mention a Low attack bonus. This is because a Low Attack Bonus follows its own, slightly different, rules. If you have a Low Attack bonus, the rules are instead as follows:
+These seem very similar to the rules for AC, except a High Attack Bonus increases it by 2 instead of 1, and I seem to have forgotten to mention a Low attack bonus. This is because a Low Attack Bonus follows its own, slightly different, rules. If you have a Low Attack bonus, the rules are instead as follows:
 - Low Strike Attack Bonus starts at +5, and increases with the level of the creature.
 - Everly third level, starting at level 2, it increases by an additional +1.
 
