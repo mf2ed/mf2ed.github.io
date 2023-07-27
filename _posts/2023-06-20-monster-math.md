@@ -4,8 +4,8 @@ title: The Monster Math
 ---
 
 A creature in Pathfinder has many statistics, and if you want to create your own, you can peruse the
-rules for [Building Creatures](https://2e.aonprd.com/Rules.aspx?ID=995). Let your head fill with tables
-upon tables with seemingly arbitrary nunbers. But is there a method to this madness? And how do player
+rules for [Building Creatures](https://2e.aonprd.com/Rules.aspx?ID=995). Let your head fill up with tables
+upon tables of seemingly arbitrary numbers. But is there a method to this madness? And how do player
 characters stack up to the monsters?
 
 In this essay, I will look at how the statistics of creatures change as they increase in level, and how
