@@ -22,6 +22,9 @@ good bit. For each statistic, I will stick to the numbers from level 1 and above
 2. [Strike Attack Bonus](#strike-attack-bonus)
 3. [Saving Throws](#saving-throws)
 4. [Perception](#perception)
+5. [Spells](#spells)
+6. [Hit Points](#hit-points)
+7. [Damage](#damage)
 
 ## Armor Class
 
