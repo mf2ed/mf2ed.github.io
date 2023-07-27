@@ -76,7 +76,7 @@ These seem very similar to the rules for AC, except a High Attack Bonus increase
 We will later see that this Low Attack progression corresponds to the progression of spell attacks.
 
 ### Player Characters
-Again, how does a martial PC keep up with this? Again a creature without a low attack bonus will increase theirs by +10 throughout the 20 levels of play. But this time we note that PCs _also_ increase their attack bonus by an additional +10.
+Again we ask, how does a martial PC keep up with this? A creature without a low attack bonus will increase theirs by +10 throughout the 20 levels of play. However, this time we note that PCs _also_ increase their attack bonus by an additional +10.
 - Players get +3 due to magic items.
 - Players get +4 due to weapon proficiency increase.
 - Players get +3 due to ability increases, including an Apex item.
