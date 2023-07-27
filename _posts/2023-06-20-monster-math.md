@@ -139,7 +139,7 @@ Some classes will pre-empt this by increasing a save at level 3, while others wi
 One last thing to note here is that wearing Bulwark armor gives the same +3 to Reflex saves as you would typically otherwise get by increasing your Dexterity with your Ability boosts.
 
 ## Perception
-A very short section here, as Perception works exactly like a saving throw bonus. Extreme Perception gives the exact same numbers as Extreme Save, High Perception gives the exact same numbers as a High save, and so on. The same rules also apply for players, where classes start either Trained or Expert, and will mostly increase it once. A few classes (Investigator, Ranger, Rogue) increases their perception twice.
+A very short section here, as Perception works exactly like a saving throw bonus. Extreme Perception gives the exact same numbers as Extreme Save, High Perception gives the exact same numbers as a High save, and so on. The same rules also apply for players, where classes start either Trained or Expert, and will mostly increase it once. A few classes (Investigator, Ranger, Rogue) increases their perception twice, similar to how a few classes increases one of their saves twice.
 
 ## Spells
 For Moderate and High spell attack rolls, the rules are as follows:
