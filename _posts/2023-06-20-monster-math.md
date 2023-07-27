@@ -23,8 +23,8 @@ good bit. For each statistic, I will stick to the numbers from level 1 and above
 3. [Saving Throws](#saving-throws)
 4. [Perception](#perception)
 5. [Spells](#spells)
-6. [Hit Points](#hit-points)
-7. [Damage](#damage)
+6. [Damage](#damage)
+7. [Hit Points](#hit-points)
 
 ## Armor Class
 
@@ -176,6 +176,17 @@ And this is of course just Spell DC. For Spell Attack, it's an even bigger gap. 
 
 It is of course worth noting that all I am doing here is looking at the spell DC and save numbers. I am not looking at how getting access to better spells might more than make up for it at the levels where our spell DC not keeping up with our enemies' saves.
 
-## Hit Points
-
 ## Damage
+
+
+## Hit Points
+The rules for hit points as follows:
+- A creature starts with 15 (Low), 20 (Moderate), or 25 (High) hit points.
+- For each level increase up to level 5, increase the number of hit points by 10 (Low), 15 (Moderate), or 20 (High)
+- For each level increase after level 5, increase the number of hit points by 15 (Low), 20 (Moderate), or 25 (High).
+- You may change the hit points by adding or subtracting 4.
+
+These numbers are not the _exact_ numbers, but are roughly correct. From level 1 to 5, the hitpoints will _actually_ increase by 41 instead of 40 (Low), 55 instead of 60 (Moderate), and 69 instead of 80 (High). But after level 5 the increases are exactly as found in Building Creatures.
+
+### Player Characters
+For most of the other sections, we have noted that the numbers for PCs and Creatures are _more or less_ the same. For HP we note that this is far from true. While a PC probably starts at somewhere between Low and Moderate HP, the increases that Creatures get PCs can only dream of. Even a max-Con Barbarian with Toughness only get 18 hit points per level, which isn't enough to keep up with even Moderate HP for a Creature. Most players won't even keep up with a Low HP Creature.
